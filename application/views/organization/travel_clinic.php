@@ -1,0 +1,1 @@
+<iframe src="<?php echo GETJAB_SURL?>login/hubnet-login-process/<?php echo urlencode(base64_encode(3)) ?>" frameborder="0" width="100%" height="800"></iframe>

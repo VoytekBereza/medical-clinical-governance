@@ -1,0 +1,75 @@
+code.hljs {
+	padding: 1em 2em 2em 2em;
+	font-size: 1.1em;
+	line-height: 1.2
+}
+
+.video-demo .article-video{
+	height: 300px;
+}
+.owl-carousel .owl-video-tn {
+	opacity: 0;
+	height: 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+
+	-webkit-background-size: initial;
+	-moz-background-size: initial;
+	-o-background-size: initial;
+	background-size: initial;
+}
+.hash .owl-center .owl-item{
+	opacity: 0.45;
+
+	transition-property: opacity;
+  	transition-duration: 300ms,300ms;
+  	transition-timing-function: ease;
+
+	-webkit-transform: scale(0.9);
+	-moz-transform: scale(0.9);
+	-ms-transform: scale(0.9);
+	-o-transform: scale(0.9);
+	transform: scale(0.9);
+}
+
+.hash .owl-center .owl-item.center{
+	opacity: 1;
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-ms-transform: scale(1);
+	-o-transform: scale(1);
+	transform: scale(1);
+}
+
+.owl-dots:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+.owl-carousel .red{
+	background-color: #E0444F;
+}
+.owl-carousel .green{
+	background-color: #2CC990;
+}
+.owl-carousel .yellow{
+	background-color: #EEE657
+}
+.owl-carousel .curry{
+	background-color: #FCB941;
+}
+.owl-carousel .pink{
+	background-color: #FC6042
+}
+.owl-carousel .darkblue{
+	background-color: #25373D
+}
+.owl-carousel .fiolet {
+	background: #9b59b6;
+}
+.owl-carousel .red2{
+	background: #e74c3c;
+}

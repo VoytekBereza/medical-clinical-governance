@@ -1,0 +1,15 @@
+.mydropdown-menu > li {
+
+	padding: 2px 4px;
+}
+
+.mydropdown-menu > li > a {
+	color:#FFF;
+	display: block;
+	font-weight:bold;
+    line-height: 1.42857;
+	padding: 0 5px;
+}
+.mydropdown-menu > li > a:hover {
+	background-color:!important;
+}

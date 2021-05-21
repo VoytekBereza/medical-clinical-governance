@@ -1,0 +1,1 @@
+<?php echo filter_string($cms_data_arr['page_description']); ?>
