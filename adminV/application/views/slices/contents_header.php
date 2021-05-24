@@ -1,0 +1,1 @@
+<?php echo ($breadcrum_data != NULL) ? $breadcrum_data : '' //ucfirst($this->uri->segment(1)); ?>

@@ -91,7 +91,9 @@ define('DEFAULT_TITLE',':: Hubnet ::');
 
 //define('DEFAULT_META_DESCRIPTION');
 
-define('SURL','https://'.$_SERVER['HTTP_HOST'].'/');
+// define('SURL','https://'.$_SERVER['HTTP_HOST'].'/');
+define('SURL','http://'.$_SERVER['HTTP_HOST'].'/hubnet/V2/');
+
 define('TECHDEVELOPERS_SURL','https://pharmafocus.co.uk/');
 define('TECHDEVELOPERS_API_SURL',TECHDEVELOPERS_SURL.'api/');
 

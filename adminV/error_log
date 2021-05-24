@@ -1,0 +1,42 @@
+[29-Apr-2016 14:04:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/demotdcom/public_html/voyager-med/adminV/application/controllers/Users.php on line 318
+[29-Apr-2016 14:13:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/demotdcom/public_html/voyager-med/adminV/application/models/Users_mod.php on line 810
+[29-Apr-2016 14:13:12 UTC] PHP Fatal error:  Call to a member function last_query() on a non-object in /home/demotdcom/public_html/voyager-med/adminV/application/models/Users_mod.php on line 109
+[29-Apr-2016 17:02:06 UTC] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/demotdcom/public_html/voyager-med/adminV/application/views/trainings/documents/add_document.php on line 25
+[29-Apr-2016 17:03:38 UTC] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/demotdcom/public_html/voyager-med/adminV/application/views/trainings/documents/add_document.php on line 25
+[03-Jul-2016 18:53:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/demotdcom/public_html/voyager-med/adminV/application/models/Users_mod.php on line 1086
+[09-Mar-2017 11:22:58 UTC] PHP Fatal error:  Call to undefined function list_avicena_trainging() in /home/demotdcom/public_html/voyager-med/adminV/application/views/buying_group/list_avicena_training.php on line 20
+[09-Mar-2017 11:23:02 UTC] PHP Fatal error:  Call to undefined function list_avicena_trainging() in /home/demotdcom/public_html/voyager-med/adminV/application/views/buying_group/list_avicena_training.php on line 20
+[09-Mar-2017 11:24:23 UTC] PHP Fatal error:  Call to undefined function list_avicena_trainging() in /home/demotdcom/public_html/voyager-med/adminV/application/views/buying_group/list_avicena_training.php on line 20
+[09-Mar-2017 11:30:07 UTC] PHP Fatal error:  Call to undefined function list_avicena_trainging() in /home/demotdcom/public_html/voyager-med/adminV/application/views/buying_group/list_avicena_training.php on line 20
+[22-Mar-2017 14:37:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1813024 bytes) in /home/hubnet/public_html/adminV/system/core/Output.php on line 189
+[03-Apr-2017 10:34:39 UTC] PHP Fatal error:  Call to undefined method Common_mod::get_all_user_types() in /home/hubnet/public_html/adminV/application/controllers/Trainings.php on line 93
+[03-Apr-2017 10:34:44 UTC] PHP Fatal error:  Call to undefined method Common_mod::get_all_user_types() in /home/hubnet/public_html/adminV/application/controllers/Trainings.php on line 93
+[03-Apr-2017 10:34:57 UTC] PHP Fatal error:  Call to undefined method Common_mod::get_all_user_types() in /home/hubnet/public_html/adminV/application/controllers/Trainings.php on line 93
+[03-Apr-2017 10:49:25 UTC] PHP Fatal error:  Call to undefined method Common_mod::get_all_user_types() in /home/hubnet/public_html/adminV/application/controllers/Trainings.php on line 93
+[03-Apr-2017 11:28:42 UTC] PHP Fatal error:  Call to undefined method Common_mod::get_all_user_types() in /home/hubnet/public_html/adminV/application/controllers/Trainings.php on line 93
+[03-Apr-2017 11:31:03 UTC] PHP Fatal error:  Call to undefined method Common_mod::get_all_user_types() in /home/hubnet/public_html/adminV/application/controllers/Trainings.php on line 93
+[03-Apr-2017 11:32:43 UTC] PHP Fatal error:  Call to undefined method Common_mod::get_all_user_types() in /home/hubnet/public_html/adminV/application/controllers/Trainings.php on line 93
+[03-Apr-2017 11:32:54 UTC] PHP Fatal error:  Call to undefined method Common_mod::get_all_user_types() in /home/hubnet/public_html/adminV/application/controllers/Trainings.php on line 93
+[03-Apr-2017 11:33:13 UTC] PHP Fatal error:  Call to undefined method Common_mod::get_all_user_types() in /home/hubnet/public_html/adminV/application/controllers/Trainings.php on line 93
+[12-Apr-2017 10:50:01 UTC] PHP Warning:  Unterminated comment starting line 269 in /home/hubnet/public_html/adminV/index.php on line 269
+[27-Apr-2017 09:27:37 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:27:38 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:27:51 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:27:52 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:32:45 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:33:11 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:33:12 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:33:16 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:33:21 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:33:28 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:33:31 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:33:58 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:36:43 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:36:53 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:38:03 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:39:07 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:39:33 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:39:52 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:40:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:40:35 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
+[27-Apr-2017 09:40:45 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/hubnet/public_html/adminV/application/models/Avicenna_mod.php on line 158
