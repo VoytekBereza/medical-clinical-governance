@@ -874,19 +874,19 @@ class Users_mod extends CI_Model {
               $order_temp_details = get_order_temp_details($user_id, '10', '', '0');
               
               if(count($order_temp_details) > 0){
-                $arr_data .= '<button class="btn btn-xs btn-warning" type="button" onClick="renew_pgd_admin(\''.$user_id.'\', \'10\', \'PGD\', \'unassign\', \'Travel Core 3.0\',\''.$user_full_name.'\')" > T19 </button>';
+                $arr_data .= '<button class="btn btn-xs btn-warning" type="button" onClick="renew_pgd_admin(\''.$user_id.'\', \'10\', \'PGD\', \'unassign\', \'Travel Core 3.0\',\''.$user_full_name.'\')" > T21 </button>';
               }else{
-                $arr_data .= '<button class="btn btn-xs btn-primary" type="button" onClick="renew_pgd_admin(\''.$user_id.'\', \'10\', \'PGD\', \'assign\', \'Travel Core 3.0\',\''.$user_full_name.'\')" > T19 </button>';  
+                $arr_data .= '<button class="btn btn-xs btn-primary" type="button" onClick="renew_pgd_admin(\''.$user_id.'\', \'10\', \'PGD\', \'assign\', \'Travel Core 3.0\',\''.$user_full_name.'\')" > T21 </button>';  
               }//end if(count($order_temp_details) > 0)
               
             }else{
               
-              $arr_data .= '<button class="btn btn-xs btn-success" type="button" onClick="assign_pgd_admin(\''.$user_id.'\', \'10\', \'PGD\', \'unassign\', \'Travel Core 3.0\',\''.$user_full_name.'\')" > T19 </button>';
+              $arr_data .= '<button class="btn btn-xs btn-success" type="button" onClick="assign_pgd_admin(\''.$user_id.'\', \'10\', \'PGD\', \'unassign\', \'Travel Core 3.0\',\''.$user_full_name.'\')" > T21 </button>';
               
             }//end if($pT_is_expiring == '1')
             
           } else {
-            $arr_data .= '<button class="btn btn-xs btn-danger"  type="button" onClick="assign_pgd_admin(\''.$user_id.'\', \'10\', \'PGD\', \'assign\', \'Travel Core 3.0\',\''.$user_full_name.'\')" > T19 </button>'; 
+            $arr_data .= '<button class="btn btn-xs btn-danger"  type="button" onClick="assign_pgd_admin(\''.$user_id.'\', \'10\', \'PGD\', \'assign\', \'Travel Core 3.0\',\''.$user_full_name.'\')" > T21 </button>'; 
             
           }//end if($pT && $pT == 1)
 
@@ -925,22 +925,22 @@ class Users_mod extends CI_Model {
               
               if(count($order_temp_details) > 0){
                 
-                $arr_data .= '<button class="btn btn-xs btn-warning" type="button" onClick="renew_pgd_admin(\''.$user_id.'\', \'15\', \'PGD\', \'unassign\', \'Seasonal 2019\',\''.$user_full_name.'\')" > F19 </button>';
+                $arr_data .= '<button class="btn btn-xs btn-warning" type="button" onClick="renew_pgd_admin(\''.$user_id.'\', \'15\', \'PGD\', \'unassign\', \'Seasonal 2019\',\''.$user_full_name.'\')" > F21 </button>';
                 
               }else{
                 
-                $arr_data .= '<button class="btn btn-xs btn-primary" type="button" onClick="renew_pgd_admin(\''.$user_id.'\', \'15\', \'PGD\', \'assign\', \'Seasonal 2019\',\''.$user_full_name.'\')" > F19 </button>';  
+                $arr_data .= '<button class="btn btn-xs btn-primary" type="button" onClick="renew_pgd_admin(\''.$user_id.'\', \'15\', \'PGD\', \'assign\', \'Seasonal 2019\',\''.$user_full_name.'\')" > F21 </button>';  
                 
               }//end if(count($order_temp_details) > 0)
               
             }else{
-              $arr_data .= '<button class="btn btn-xs btn-success" type="button" onClick="assign_pgd_admin(\''.$user_id.'\', \'15\', \'PGD\', \'unassign\', \'Seasonal 2019\',\''.$user_full_name.'\')" > F19 </button>';   
+              $arr_data .= '<button class="btn btn-xs btn-success" type="button" onClick="assign_pgd_admin(\''.$user_id.'\', \'15\', \'PGD\', \'unassign\', \'Seasonal 2019\',\''.$user_full_name.'\')" > F21 </button>';   
               
             }//end if($F16_is_expiring == '1')
            
           } else {
            
-            $arr_data .= '<button class="btn btn-xs btn-danger" type="button" onClick="assign_pgd_admin(\''.$user_id.'\', \'15\', \'PGD\', \'assign\', \'Seasonal 2019\',\''.$user_full_name.'\')" > F19 </button>';  
+            $arr_data .= '<button class="btn btn-xs btn-danger" type="button" onClick="assign_pgd_admin(\''.$user_id.'\', \'15\', \'PGD\', \'assign\', \'Seasonal 2019\',\''.$user_full_name.'\')" > F21 </button>';  
            
           }//end if($F16 && $F16 == 1)
           

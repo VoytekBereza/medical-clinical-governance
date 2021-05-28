@@ -61,7 +61,7 @@
                     <table class="table table-striped table-bordered table-hover" id="avicenna_user_list">
                         <thead>
                             <tr class="headings">
-                                <th>First Name1</th>
+                                <th>First Name</th>
                                 <th>Last Name</th>
                                 <th>Contact</th>
                                 <th>Email</th>

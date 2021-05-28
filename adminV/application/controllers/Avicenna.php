@@ -148,7 +148,7 @@ class Avicenna extends CI_Controller {
 	} // 
 	
 	// 	avicenna_user_list
-	public function avicenna_user_list(){
+	public function avicenna_users_list(){
 		
 		echo $this->avicenna->get_all_avicenna_ajax_call();
 		
